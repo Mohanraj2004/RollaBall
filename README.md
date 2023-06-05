@@ -1,4 +1,4 @@
-# EX-03  RollaBall
+# EX-03  Roll a Ball
 
 ## Aim:
 To Roll a Ball using C# program in unity .
@@ -45,8 +45,8 @@ Double click the PlayerController file and type the coding
 
 ## Program:
 ```
-Developed By: Silambarasan K
-Reg No: 212221230101
+Developed By: Mohan Raj
+Reg No: 212221230065
 ```
 ```c#
 using System.Collections;
