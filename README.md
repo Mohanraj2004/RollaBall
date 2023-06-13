@@ -1,4 +1,4 @@
-# EX-03  Roll a Ball
+# EX-02  Roll a Ball
 
 ## Aim:
 To Roll a Ball using C# program in unity .
